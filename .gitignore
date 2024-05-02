@@ -1,0 +1,7 @@
+ext2-create
+ext2-create.o
+*.img
+*-lab4-submission.tar
+/mnt/
+.vscode/
+__pycache__/
